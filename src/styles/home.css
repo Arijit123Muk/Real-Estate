@@ -25,7 +25,7 @@
 }
 
 .blues-sec {
-    margin: 0% 0% 0% 0%;
+    margin: 0% 0% 0% 4%;
     color: rgb(86, 86, 250);
     font-size: 3rem;
 }
@@ -36,17 +36,16 @@
     font-size: 3rem;
 }
 
-.para{
+.parag {
     color: rgba(0, 0, 0, 0.678);
-    margin: 1% 58% 2% 0%;
-    letter-spacing: 1px;
+    margin: 2% 61% 2% 0%;
 }
 
 .home-logo{
     max-width: 40%;
     position: absolute;
     left: 50%;
-    bottom: 18%;
+    bottom: 20%;
 }
 
 .btn{
@@ -55,7 +54,8 @@
     color: white;
     border-radius: 14%;
     align-content: center;
-    padding: 2%;
+    padding: 1%;
+    font-size: 22px;
     border: none;
 }
 
@@ -114,9 +114,9 @@
     font-size: 3rem;
 }
 
-.para{
+.parag {
     color: rgba(0, 0, 0, 0.678);
-    margin: 1% 2% 2% 2%;
+    margin: 2% 5% 2% 4%;
 }
 
 .btn{
