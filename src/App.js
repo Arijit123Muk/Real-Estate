@@ -5,6 +5,7 @@ import About from './components/About';
 import Agents from './components/Agents';
 import Property from './components/Property';
 import Footer from './shared/Footer';
+import Contact from './components/Contact';
 
 function App() {
   return (
@@ -23,6 +24,9 @@ function App() {
           </Route>
           <Route exact path="/property">
             <Property />
+          </Route>
+          <Route exact path="/contact">
+            <Contact />
           </Route>
         </Switch>
         <Footer />

@@ -1,5 +1,6 @@
 import '../styles/footer.css';
 
+
 const Footer = () => {
     return ( 
         <footer>
