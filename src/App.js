@@ -3,6 +3,8 @@ import Navbar from './shared/Navbar';
 import Home from './components/Home';
 import About from './components/About';
 import Agents from './components/Agents';
+import Property from './components/Property';
+import Footer from './shared/Footer';
 
 function App() {
   return (
@@ -19,7 +21,11 @@ function App() {
           <Route exact path="/agents">
             <Agents />
           </Route>
+          <Route exact path="/property">
+            <Property />
+          </Route>
         </Switch>
+        <Footer />
       </div>
     </Router>
   );
