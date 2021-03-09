@@ -5,7 +5,7 @@ Here is my Real-Estate Website  <span style='font-size:40px;'>&#128071;</span>
 
 ## Demo ##
 
-[![Everything Is AWESOME](#)](https://youtu.be/2V6xBc6IJK4 "Everything Is AWESOME")
+[![Everything Is AWESOME](https://github.com/Arijit123Muk/Real-Estate/blob/main/ui/Capture.PNG)](https://youtu.be/2V6xBc6IJK4 "Everything Is AWESOME")
 
 
 
