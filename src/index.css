@@ -9,6 +9,22 @@
     cursor: context-menu;
 }
 
+*::-webkit-scrollbar{
+    width: 13px;
+}
+
+*::-webkit-scrollbar-track{
+    background-color: rgb(212, 204, 204);
+    background-color: white;
+    border-radius: 10px;
+}
+
+*::-webkit-scrollbar-thumb{
+    border-radius: 10px;
+    background: linear-gradient(rgb(175, 175, 252), rgb(151, 89, 151));
+    /* background-color:linear-gradient(blue, violet); */
+}
+
 a{
     text-decoration: none;
 }

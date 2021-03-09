@@ -6,6 +6,7 @@ import Agents from './components/Agents';
 import Property from './components/Property';
 import Footer from './shared/Footer';
 import Contact from './components/Contact';
+import NotFound from './components/NotFound';
 
 function App() {
   return (
@@ -27,6 +28,9 @@ function App() {
           </Route>
           <Route exact path="/contact">
             <Contact />
+          </Route>
+          <Route exact path="*">
+            <NotFound />
           </Route>
         </Switch>
         <Footer />
